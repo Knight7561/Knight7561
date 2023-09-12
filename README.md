@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Knight7561&repo=Knight7561)](https://github.com/anuraghazra/github-readme-stats) -->
+<html>
+  <body>
+<img src="https://github-readme-stats.vercel.app/api?username=Knight7561&show_icons=true&theme=ADD_THEME_HERE" width="400"
+  </body>
+</html>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Knight7561)](https://git.io/streak-stats)
