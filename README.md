@@ -1,26 +1,41 @@
-### Hi there 👋
+### 👋
 
-<!--
-**Knight7561/Knight7561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My Code Wonderland! 🌟
 
-Here are some ideas to get you started:
+Hi there! 👋 I'm Knight7561, a passionate coder exploring the enchanting realms of technology. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Knight7561&repo=Knight7561)](https://github.com/anuraghazra/github-readme-stats) -->
+![Astronaut Coding](https://media.giphy.com/media/ZG7186FYrMMnpx4fX9/giphy.gif)
+
+![Code](https://tenor.com/en-GB/view/machine-learning-baby-crying-deep-learning-sad-math-gif-17208484)
+
+🌌 Here, in my cosmic corner of GitHub, you'll find a treasure trove of my coding adventures. From data science spells to machine learning potions, I'm on a quest to conquer the digital universe, one line of code at a time.
+
+🔭 Currently, I'm peering into the mysteries of machine learning and Software Development. Stay tuned for my discoveries!
+
+💡 I believe that code can change the world, one algorithm at a time. Join me on this journey, and let's craft a brighter, more interconnected future together.
+
+🌟 Feel free to explore my projects, offer a star if you find something fascinating, or reach out for a virtual coding tea party. I'm always up for a byte-sized chat!
+
+```python
+while coding:
+    stay_happy()
+    stay_curious()
+    keep_exploring()
+```
+
+🚀 Thank you for visiting my GitHub galaxy. Together, we'll write lines of code that paint the future in the brightest of colors! 🎨
+
+Keep coding, keep dreaming, and always reach for the stars! 🌠
+
+### Knight7561
+
+P.S. If you bring coffee, I promise to write even better code! ☕
+
 <html>
   <body>
-<img src="https://github-readme-stats.vercel.app/api?username=Knight7561&show_icons=true&theme=ADD_THEME_HERE" width="400"
+<img src="https://github-readme-stats.vercel.app/api?username=Knight7561&show_icons=true&theme=ADD_THEME_HERE" width="400"/>
   </body>
 </html>
-
-
+    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Knight7561)](https://git.io/streak-stats)
