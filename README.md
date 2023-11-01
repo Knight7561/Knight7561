@@ -5,10 +5,6 @@
 Hi there! 👋 I'm Knight7561, a passionate coder exploring the enchanting realms of technology. 🚀
 
 
-![Astronaut Coding](https://media.giphy.com/media/ZG7186FYrMMnpx4fX9/giphy.gif)
-
-![Code](https://tenor.com/en-GB/view/machine-learning-baby-crying-deep-learning-sad-math-gif-17208484)
-
 🌌 Here, in my cosmic corner of GitHub, you'll find a treasure trove of my coding adventures. From data science spells to machine learning potions, I'm on a quest to conquer the digital universe, one line of code at a time.
 
 🔭 Currently, I'm peering into the mysteries of machine learning and Software Development. Stay tuned for my discoveries!
