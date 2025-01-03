@@ -35,3 +35,5 @@ P.S. If you bring coffee, I promise to write even better code! ☕
 </html>
     
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Knight7561)](https://git.io/streak-stats)
+
+![](https://github.com/Knight7561/Knight7561/blob/output/github-contribution-grid-snake.svg)
