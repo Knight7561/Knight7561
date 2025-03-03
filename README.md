@@ -28,12 +28,13 @@ Keep coding, keep dreaming, and always reach for the stars! 🌠
 
 P.S. If you bring coffee, I promise to write even better code! ☕
 
+[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKnight7561&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 <html>
   <body>
 <img src="https://github-readme-stats.vercel.app/api?username=Knight7561&show_icons=true&theme=ADD_THEME_HERE" width="400"/>
   </body>
 </html>
     
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Knight7561)](https://git.io/streak-stats)
 
 ![](https://github.com/Knight7561/Knight7561/blob/output/github-contribution-grid-snake.svg)
+
